@@ -2,3 +2,4 @@ Commit 1: 2026-04-03T13:03:31 - chore: configure repository build settings for .
 Commit 2: 2026-04-03T13:37:06 - chore: configure repository build settings for .env
 Commit 3: 2026-04-03T14:34:21 - chore: configure repository build settings for .env.example
 Commit 4: 2026-04-03T19:54:43 - chore: configure repository build settings for .pre-commit-config.yaml
+Commit 5: 2026-04-03T21:45:13 - docs: write CHANGELOG.md integration guide
