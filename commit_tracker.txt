@@ -30,3 +30,4 @@ Commit 29: 2026-04-11T11:35:41 - feat(providers): add factory router and multi-m
 Commit 30: 2026-04-11T12:06:05 - feat(providers): add factory router and multi-model failover support
 Commit 31: 2026-04-11T12:59:58 - feat(providers): add factory router and multi-model failover support
 Commit 32: 2026-04-11T15:36:38 - feat(providers): add factory router and multi-model failover support
+Commit 33: 2026-04-11T19:50:26 - chore: configure repository build settings for router.py
