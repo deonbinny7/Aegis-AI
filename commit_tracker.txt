@@ -82,3 +82,4 @@ Commit 81: 2026-04-27T21:25:00 - feat(db): establish SQLAlchemy models and migra
 Commit 82: 2026-04-30T12:05:29 - feat(db): establish SQLAlchemy models and migrations
 Commit 83: 2026-04-30T14:02:09 - feat(db): establish SQLAlchemy models and migrations
 Commit 84: 2026-04-30T16:35:32 - feat(db): establish SQLAlchemy models and migrations
+Commit 85: 2026-04-30T18:33:39 - chore: configure repository build settings for base.py
