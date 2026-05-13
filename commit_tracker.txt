@@ -176,3 +176,4 @@ Commit 117: 2026-05-13T09:16:26 - docs: write API_REFERENCE.md integration guide
 Commit 118: 2026-05-13T10:41:57 - docs: write ARCHITECTURE.md integration guide
 Commit 119: 2026-05-13T13:34:17 - docs: write BACKEND.md integration guide
 Commit 120: 2026-05-13T14:21:44 - docs: write DEPLOYMENT.md integration guide
+Commit 121: 2026-05-13T14:56:18 - docs: write DOCKER.md integration guide
