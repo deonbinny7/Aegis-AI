@@ -173,3 +173,4 @@ Commit 114: 2026-05-11T14:45:13 - chore: configure repository build settings for
 Commit 115: 2026-05-11T17:20:18 - chore: configure repository build settings for docker-compose.yml
 Commit 116: 2026-05-11T20:33:42 - docs: write AI_PIPELINE.md integration guide
 Commit 117: 2026-05-13T09:16:26 - docs: write API_REFERENCE.md integration guide
+Commit 118: 2026-05-13T10:41:57 - docs: write ARCHITECTURE.md integration guide
