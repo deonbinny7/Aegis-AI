@@ -182,3 +182,4 @@ Commit 123: 2026-05-14T09:56:20 - docs: write FRONTEND.md integration guide
 Commit 124: 2026-05-14T09:59:08 - docs: write INSTALLATION.md integration guide
 Commit 125: 2026-05-14T15:31:56 - docs: write LANGGRAPH.md integration guide
 Commit 126: 2026-05-14T16:41:50 - docs: write PROVIDER_ROUTING.md integration guide
+Commit 127: 2026-05-14T18:21:10 - docs: write QUICK_START.md integration guide
