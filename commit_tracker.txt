@@ -179,3 +179,4 @@ Commit 120: 2026-05-13T14:21:44 - docs: write DEPLOYMENT.md integration guide
 Commit 121: 2026-05-13T14:56:18 - docs: write DOCKER.md integration guide
 Commit 122: 2026-05-13T17:48:37 - docs: write FAQ.md integration guide
 Commit 123: 2026-05-14T09:56:20 - docs: write FRONTEND.md integration guide
+Commit 124: 2026-05-14T09:59:08 - docs: write INSTALLATION.md integration guide
