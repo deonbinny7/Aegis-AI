@@ -186,3 +186,4 @@ Commit 127: 2026-05-14T18:21:10 - docs: write QUICK_START.md integration guide
 Commit 128: 2026-05-14T18:24:33 - docs: write SYSTEM_DESIGN.md integration guide
 Commit 129: 2026-05-14T19:01:28 - docs: write TESTING.md integration guide
 Commit 130: 2026-05-15T10:37:12 - docs: write TROUBLESHOOTING.md integration guide
+Commit 131: 2026-05-15T15:36:28 - chore: configure repository build settings for App.tsx
