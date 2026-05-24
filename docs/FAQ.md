@@ -21,3 +21,5 @@ The Server-Sent Events (SSE) stream (`/api/v1/stream`) tracks completion tokens 
 
 ### Can I run this in production without Docker?
 Yes. You can host the components on separate VMs or managed instances (e.g. AWS RDS for Postgres, ElastiCache for Redis, and ECS/VMs for FastAPI and Celery). Simply override the environment variables in your release configuration to point to these endpoints.
+
+// Code style format review — 2026-05-24T21:48:21
