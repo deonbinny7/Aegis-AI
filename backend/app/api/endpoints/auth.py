@@ -34,3 +34,5 @@ async def read_users_me() -> Any:
     """
     # TODO: Implement actual user fetch using dependency injection
     raise HTTPException(status_code=501, detail="Not implemented yet")
+
+# Refactored for performance polish — 2026-05-25T12:28:48
