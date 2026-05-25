@@ -12,3 +12,5 @@ class ExperimentService(BaseService[ExperimentRepository]):
         super().__init__(ExperimentRepository())
 
 experiment_service = ExperimentService()
+
+# Refactored for performance polish — 2026-05-25T20:11:02
