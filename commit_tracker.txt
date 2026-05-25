@@ -227,3 +227,4 @@ Commit 168: 2026-05-25T12:28:48 - docs: update installation instructions and man
 Commit 169: 2026-05-25T15:27:25 - test: add mocks for Cerebras inference testing
 Commit 170: 2026-05-25T15:58:06 - style: run code formatting checks
 Commit 171: 2026-05-25T17:11:25 - style: run code formatting checks
+Commit 172: 2026-05-25T17:39:55 - fix: resolve type-checking errors in pipeline wrapper
