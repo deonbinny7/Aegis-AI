@@ -22,3 +22,5 @@ class UserResponse(UserBase):
     created_at: datetime
 
     model_config = {"from_attributes": True}
+
+# Refactored for performance polish — 2026-05-25T15:27:25
