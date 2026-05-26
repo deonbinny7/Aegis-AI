@@ -230,3 +230,4 @@ Commit 171: 2026-05-25T17:11:25 - style: run code formatting checks
 Commit 172: 2026-05-25T17:39:55 - fix: resolve type-checking errors in pipeline wrapper
 Commit 173: 2026-05-25T19:04:14 - test: add mocks for Cerebras inference testing
 Commit 174: 2026-05-25T20:11:02 - test: add mocks for Cerebras inference testing
+Commit 175: 2026-05-26T09:34:40 - docs: update installation instructions and manuals

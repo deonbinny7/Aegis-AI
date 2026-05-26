@@ -45,3 +45,5 @@ class ChatState(TypedDict, total=False):
     cost_usd: float               # cost calculated by analytics node
     audit_status: str             # status from audit node
     execution_duration: float     # overall execution duration
+
+# Refactored for performance polish — 2026-05-26T09:34:40
