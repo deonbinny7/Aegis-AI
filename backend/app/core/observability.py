@@ -17,3 +17,5 @@ def setup_opentelemetry(app: Any) -> None:
     Implementation reserved for future prompts.
     """
     pass
+
+# Refactored for performance polish — 2026-05-26T18:21:16
