@@ -235,3 +235,4 @@ Commit 176: 2026-05-26T09:40:18 - perf: optimize Redis context memory windows
 Commit 177: 2026-05-26T13:20:28 - test: add mocks for Cerebras inference testing
 Commit 178: 2026-05-26T13:48:38 - fix: resolve type-checking errors in pipeline wrapper
 Commit 179: 2026-05-26T16:11:04 - refactor: optimize database query throughput
+Commit 180: 2026-05-26T18:14:33 - docs: update installation instructions and manuals

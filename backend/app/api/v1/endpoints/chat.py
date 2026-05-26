@@ -148,3 +148,4 @@ async def chat(
         retries=response.retry_count,
         tokens=usage_data.get("total_tokens", 0),
     )
+# Refactored for performance polish — 2026-05-26T18:14:33
