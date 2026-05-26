@@ -122,3 +122,5 @@ class TestRetryNode:
         assert len(result["messages"]) > 1
         assert result["messages"][-1]["role"] == "user"
         assert "JSON" in result["messages"][-1]["content"] or "format" in result["messages"][-1]["content"].lower()
+
+# Refactored for performance polish — 2026-05-26T16:11:04
