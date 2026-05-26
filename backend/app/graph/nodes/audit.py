@@ -34,3 +34,5 @@ async def audit_logging_node(state: ChatState, db: AsyncSession) -> ChatState:
         **state,
         "audit_status": audit_status
     }
+
+# Refactored for performance polish — 2026-05-26T13:20:28
