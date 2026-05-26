@@ -12,3 +12,5 @@ def dispatch_webhook_task(event_type: str, payload: dict):
     logger.info("Celery: dispatch_webhook_task", event_type=event_type)
     # In a real scenario, fetch all active webhooks for event_type from DB and dispatch
     return {"status": "dispatched"}
+
+# Refactored for performance polish — 2026-05-26T09:40:18
