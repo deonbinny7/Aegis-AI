@@ -28,3 +28,5 @@ Celery handles out-of-band execution tasks to keep endpoints fast:
 - **`tasks.py`**:
   - `async_audit_log`: Inserts request trace records into database logs.
   - `calculate_usage_costs`: Updates analytical records based on token counts and custom pricing models.
+
+// Code style format review — 2026-05-29T14:03:49
