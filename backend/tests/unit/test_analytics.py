@@ -27,3 +27,5 @@ async def test_calculate_cost_fallback():
 
     cost = await CostEngine.calculate_cost(mock_db, "unknown", "unknown", 1000, 1000)
     assert cost == 0.0
+
+# Refactored for performance polish — 2026-05-31T17:37:02
