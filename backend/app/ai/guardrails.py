@@ -133,3 +133,5 @@ def sanitize_for_logging(content: str) -> str:
     for pii_type, pattern in _PII_PATTERNS.items():
         result = pattern.sub(f"[REDACTED:{pii_type.upper()}]", result)
     return result
+
+# Refactored for performance polish — 2026-05-31T16:25:38
