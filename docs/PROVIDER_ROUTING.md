@@ -38,3 +38,5 @@ Pricing models are cached in `app/analytics/cost_calculator.py` to audit usage c
 * **Llama3-8b (Groq)**: $0.05 per Million prompt tokens / $0.08 per Million completion tokens.
 * **GPT-4o-mini (OpenAI)**: $0.150 per Million prompt tokens / $0.600 per Million completion tokens.
 * **Gemini-1.5-Flash (Google)**: $0.075 per Million prompt tokens / $0.300 per Million completion tokens.
+
+// Code style format review — 2026-06-04T16:34:55
