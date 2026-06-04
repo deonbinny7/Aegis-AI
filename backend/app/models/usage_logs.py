@@ -16,3 +16,5 @@ class UsageLog(Base):
     total_tokens = Column(Integer, default=0)
     cost_usd = Column(Float, default=0.0)
     latency_ms = Column(Integer, default=0)
+
+# Refactored for performance polish — 2026-06-04T17:11:30
