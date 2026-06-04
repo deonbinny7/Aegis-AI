@@ -42,3 +42,5 @@ Provides a chat interface enabling developers to:
 
 ### 3. Prompt Library (`Prompts.tsx`)
 An editor interface for versioning prompt templates, defining default values, and previewing compiled prompts with dynamic variables.
+
+// Code style format review — 2026-06-04T21:52:59
