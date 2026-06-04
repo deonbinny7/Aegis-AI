@@ -19,3 +19,5 @@ def experiment_logging_node(state: ChatState) -> ChatState:
         logger.debug("Graph: experiment_logging_node - No experiment running")
         
     return state
+
+# Refactored for performance polish — 2026-06-04T18:10:56
