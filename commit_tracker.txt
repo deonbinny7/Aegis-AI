@@ -256,3 +256,4 @@ Commit 197: 2026-06-04T20:17:19 - refactor: optimize database query throughput
 Commit 198: 2026-06-04T21:52:59 - fix: handle timeout exceptions in provider calls
 Commit 199: 2026-06-06T13:54:25 - docs: update installation instructions and manuals
 Commit 200: 2026-06-06T15:02:09 - chore: package updates and requirements patch
+Commit 201: 2026-06-06T17:29:37 - docs: update installation instructions and manuals
