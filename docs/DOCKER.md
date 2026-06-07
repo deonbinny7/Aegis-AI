@@ -45,3 +45,5 @@ graph TD
 ### 5. `frontend` (React static)
 * Dockerfile: `/frontend/Dockerfile`
 * Runs a Node build process to output public statics, serving them using Nginx in production compose setups.
+
+// Code style format review — 2026-06-07T14:43:06
