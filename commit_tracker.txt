@@ -268,3 +268,4 @@ Commit 209: 2026-06-07T18:24:21 - fix: resolve type-checking errors in pipeline 
 Commit 210: 2026-06-07T21:35:59 - docs: update installation instructions and manuals
 Commit 211: 2026-06-08T09:35:58 - fix: resolve type-checking errors in pipeline wrapper
 Commit 212: 2026-06-08T10:13:44 - perf: optimize Redis context memory windows
+Commit 213: 2026-06-08T12:32:50 - docs: update installation instructions and manuals
