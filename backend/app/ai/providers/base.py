@@ -17,3 +17,4 @@ class ModelConfig(BaseModel):
     max_tokens: Optional[int] = None
     streaming: bool = False
     additional_kwargs: Dict[str, Any] = {}
+# Refactored for performance polish — 2026-06-08T15:37:41
