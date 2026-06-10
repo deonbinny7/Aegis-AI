@@ -158,3 +158,5 @@ export function ComparePage() {
     </div>
   )
 }
+
+// Code style format review — 2026-06-10T09:51:01
