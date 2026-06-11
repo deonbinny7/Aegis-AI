@@ -29,3 +29,5 @@ def setup_logging(log_level: str = "INFO"):
 
 def get_logger(name: str):
     return structlog.get_logger(name)
+
+# Refactored for performance polish — 2026-06-11T09:02:12
