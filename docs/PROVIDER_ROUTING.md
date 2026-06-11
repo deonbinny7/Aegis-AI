@@ -40,3 +40,5 @@ Pricing models are cached in `app/analytics/cost_calculator.py` to audit usage c
 * **Gemini-1.5-Flash (Google)**: $0.075 per Million prompt tokens / $0.300 per Million completion tokens.
 
 // Code style format review — 2026-06-04T16:34:55
+
+// Code style format review — 2026-06-11T16:16:06
