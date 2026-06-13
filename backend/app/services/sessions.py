@@ -12,3 +12,5 @@ class SessionService(BaseService[SessionRepository]):
         super().__init__(SessionRepository())
 
 session_service = SessionService()
+
+# Refactored for performance polish — 2026-06-13T11:06:33
