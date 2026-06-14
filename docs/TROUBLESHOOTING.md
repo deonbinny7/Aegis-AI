@@ -42,3 +42,5 @@ This guide helps resolve common issues encountered while setting up and running 
   docker compose logs celery_worker
   ```
   Verify that the Redis service is online, as Celery relies on it as a message broker.
+
+// Code style format review — 2026-06-14T13:27:01
