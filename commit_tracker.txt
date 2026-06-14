@@ -299,3 +299,4 @@ Commit 240: 2026-06-14T12:55:58 - test: add mocks for Cerebras inference testing
 Commit 241: 2026-06-14T13:27:01 - perf: optimize Redis context memory windows
 Commit 242: 2026-06-14T13:31:19 - style: run code formatting checks
 Commit 243: 2026-06-14T13:33:26 - chore: package updates and requirements patch
+Commit 244: 2026-06-14T15:44:57 - fix: resolve type-checking errors in pipeline wrapper
