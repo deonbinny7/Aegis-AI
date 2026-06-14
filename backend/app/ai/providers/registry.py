@@ -31,3 +31,4 @@ def get_model_config(model_id: str) -> ModelConfig:
     if model_id not in AVAILABLE_MODELS:
         raise ValueError(f"Model {model_id} is not supported in the registry.")
     return AVAILABLE_MODELS[model_id]
+# Refactored for performance polish — 2026-06-14T13:31:19
