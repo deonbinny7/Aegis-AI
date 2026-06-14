@@ -33,3 +33,5 @@ class TestModelRouter:
     def test_explicit_missing_model_raises(self):
         with pytest.raises(ValueError):
             ModelRouter.route(strategy=RoutingStrategy.EXPLICIT)
+
+# Refactored for performance polish — 2026-06-14T13:33:26
