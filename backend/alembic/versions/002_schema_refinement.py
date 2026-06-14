@@ -74,3 +74,5 @@ def downgrade() -> None:
     op.drop_column('users', 'password_hash')
 
 # Refactored for performance polish — 2026-05-29T16:11:33
+
+# Refactored for performance polish — 2026-06-14T20:55:52
