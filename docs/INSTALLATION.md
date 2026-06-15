@@ -73,3 +73,5 @@ Docker Compose starts all necessary services (PostgreSQL, Redis, Celery, Prometh
    npm run dev
    ```
    *The client dashboard will load on `http://localhost:5173`.*
+
+// Code style format review — 2026-06-15T20:24:07

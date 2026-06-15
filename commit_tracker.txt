@@ -311,3 +311,4 @@ Commit 252: 2026-06-15T17:21:58 - fix: handle timeout exceptions in provider cal
 Commit 253: 2026-06-15T18:35:55 - chore: package updates and requirements patch
 Commit 254: 2026-06-15T19:41:36 - perf: optimize Redis context memory windows
 Commit 255: 2026-06-15T20:17:28 - refactor: optimize database query throughput
+Commit 256: 2026-06-15T20:24:07 - docs: update installation instructions and manuals
