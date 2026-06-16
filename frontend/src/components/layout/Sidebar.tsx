@@ -142,3 +142,5 @@ export function Sidebar() {
     </motion.aside>
   )
 }
+
+// Code style format review — 2026-06-16T10:17:35
