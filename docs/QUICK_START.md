@@ -60,3 +60,5 @@ curl -N -X POST "http://localhost:8000/api/v1/stream" \
      }'
 ```
 *Your terminal will display incoming chunks in real-time.*
+
+// Code style format review — 2026-06-16T14:31:48
