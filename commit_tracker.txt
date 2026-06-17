@@ -327,3 +327,4 @@ Commit 268: 2026-06-17T14:34:38 - perf: optimize Redis context memory windows
 Commit 269: 2026-06-17T14:59:40 - chore: package updates and requirements patch
 Commit 270: 2026-06-17T16:37:26 - chore: package updates and requirements patch
 Commit 271: 2026-06-17T16:55:14 - fix: handle timeout exceptions in provider calls
+Commit 272: 2026-06-17T20:35:46 - test: add mocks for Cerebras inference testing
