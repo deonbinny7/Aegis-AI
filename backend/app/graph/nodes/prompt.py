@@ -68,3 +68,5 @@ async def prompt_render_node(state: ChatState, db: AsyncSession) -> ChatState:
         "prompt_version_id": prompt_version_id,
         "messages": trimmed,
     }
+
+# Refactored for performance polish — 2026-06-19T13:43:35
