@@ -339,3 +339,4 @@ Commit 280: 2026-06-23T11:33:20 - refactor: optimize database query throughput
 Commit 281: 2026-06-23T13:40:18 - refactor: optimize database query throughput
 Commit 282: 2026-06-23T14:45:03 - refactor: optimize database query throughput
 Commit 283: 2026-06-23T19:20:01 - perf: optimize Redis context memory windows
+Commit 284: 2026-06-23T21:07:56 - docs: update installation instructions and manuals
