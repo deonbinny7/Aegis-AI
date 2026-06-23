@@ -41,3 +41,5 @@ If the LLM output violates JSON schemas, the output node forwards the error payl
 
 - **Short-Term Memory**: Stored in a sliding window in Redis. We retrieve the last $N$ messages (configured by `MEMORY_WINDOW_SIZE`) to serve as context for the current completion request.
 - **Long-Term Persistence**: Persisted in PostgreSQL. Conversations are written using SQLAlchemy async engines, ensuring complete session history is preserved.
+
+// Code style format review — 2026-06-23T13:40:18
