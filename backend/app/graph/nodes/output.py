@@ -94,7 +94,3 @@ def output_validation_node(state: ChatState) -> ChatState:
         "final_response": response_text,
         "error": None,
     }
-
-# Refactored for performance polish — 2026-06-07T14:06:31
-
-# Refactored for performance polish — 2026-06-14T10:10:40

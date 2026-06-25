@@ -128,7 +128,3 @@ export function CostsPage() {
     </div>
   )
 }
-
-// Code style format review — 2026-05-25T19:04:14
-
-// Code style format review — 2026-06-11T16:18:07

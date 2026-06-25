@@ -18,9 +18,3 @@ class Message(Base):
     session = relationship("Session", back_populates="messages")
     prompt_version = relationship("PromptVersion", back_populates="messages")
     experiment = relationship("Experiment", back_populates="messages")
-
-# Refactored for performance polish — 2026-06-14T12:55:58
-
-# Refactored for performance polish — 2026-06-15T11:32:18
-
-# Refactored for performance polish — 2026-06-16T13:53:19

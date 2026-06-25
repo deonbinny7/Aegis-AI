@@ -16,5 +16,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
-# Refactored for performance polish — 2026-05-29T18:29:18

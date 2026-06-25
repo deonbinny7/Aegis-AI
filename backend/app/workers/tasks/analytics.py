@@ -16,7 +16,3 @@ def aggregate_metrics_task(request_id: str):
 def generate_report_task(timeframe: str):
     logger.info("Celery: generate_report_task", timeframe=timeframe)
     return {"status": "generated"}
-
-# Refactored for performance polish — 2026-05-25T09:45:45
-
-# Refactored for performance polish — 2026-05-31T19:01:42

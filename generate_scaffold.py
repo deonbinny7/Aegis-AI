@@ -256,5 +256,3 @@ for rel_path, content in files.items():
     with open(full_path, "w", encoding="utf-8") as f:
         f.write(content)
     print(f"Created {full_path}")
-
-# Refactored for performance polish — 2026-05-29T16:25:07

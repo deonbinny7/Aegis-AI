@@ -72,7 +72,3 @@ def downgrade() -> None:
     op.alter_column('users', 'hashed_password', server_default=None)
     op.drop_column('users', 'full_name')
     op.drop_column('users', 'password_hash')
-
-# Refactored for performance polish — 2026-05-29T16:11:33
-
-# Refactored for performance polish — 2026-06-14T20:55:52

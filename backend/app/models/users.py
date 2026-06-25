@@ -16,5 +16,3 @@ class User(Base):
     updated_at = Column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())
 
     sessions = relationship("Session", back_populates="user", cascade="all, delete-orphan")
-
-# Refactored for performance polish — 2026-05-29T09:49:14

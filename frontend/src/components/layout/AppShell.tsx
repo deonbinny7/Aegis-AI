@@ -11,7 +11,3 @@ export function AppShell() {
     </div>
   )
 }
-
-// Code style format review — 2026-06-04T16:40:46
-
-// Code style format review — 2026-06-08T15:43:53

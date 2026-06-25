@@ -10,7 +10,3 @@ class BaseService(Generic[RepoType]):
 
     # Standard service methods can be implemented here, e.g., get, get_multi, etc.
     # to coordinate workflows across repositories or domain boundaries.
-
-# Refactored for performance polish — 2026-06-14T15:44:57
-
-# Refactored for performance polish — 2026-06-19T12:09:43

@@ -28,5 +28,3 @@ export function truncate(str: string, maxLength: number): string {
   if (str.length <= maxLength) return str
   return str.slice(0, maxLength) + '…'
 }
-
-// Code style format review — 2026-06-15T16:54:52

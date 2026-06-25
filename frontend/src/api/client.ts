@@ -109,7 +109,3 @@ export function streamChat(
     if (err.name !== 'AbortError') onError(err.message)
   })
 }
-
-// Code style format review — 2026-05-29T17:39:16
-
-// Code style format review — 2026-06-11T21:45:17

@@ -26,5 +26,3 @@ Guardrails check requests before execution to protect against exploits and leaki
 
 ### Output Guardrails:
 * **JSON Schema Enforcement**: If the request specifies an `output_schema`, the gateway parses model completions using `pydantic.TypeAdapter.validate_json`. If parsing fails, it submits the error back to a retry queue.
-
-// Code style format review — 2026-06-23T21:07:56

@@ -49,5 +49,3 @@ For deploying on a virtual machine (VM) using Docker:
    ```
 2. Setup Nginx as a reverse proxy, mapping port 80/443 to the frontend static server on port 80 and the backend API on port 8000.
 3. Configure Let's Encrypt SSL certificates.
-
-// Code style format review — 2026-06-13T20:17:05

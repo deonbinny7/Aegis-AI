@@ -18,5 +18,3 @@ async def test_liveness_check(async_client: AsyncClient):
     response = await async_client.get("/api/v1/health/live")
     assert response.status_code == 200
     assert response.json()["status"] == "alive"
-
-# Refactored for performance polish — 2026-06-19T12:08:47

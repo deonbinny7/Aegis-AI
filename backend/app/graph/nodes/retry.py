@@ -69,7 +69,3 @@ def retry_node(state: ChatState) -> ChatState:
         "validation_errors": [],
         "error": None,
     }
-
-# Refactored for performance polish — 2026-06-15T11:20:32
-
-# Refactored for performance polish — 2026-06-15T19:41:36

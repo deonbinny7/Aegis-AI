@@ -15,7 +15,3 @@ class AuthService:
         return await user_service.create_user(db, user_in)
 
 auth_service = AuthService()
-
-# Refactored for performance polish — 2026-06-16T19:37:39
-
-# Refactored for performance polish — 2026-06-19T19:49:03

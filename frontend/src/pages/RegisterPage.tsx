@@ -83,7 +83,3 @@ export function RegisterPage() {
     </div>
   )
 }
-
-// Code style format review — 2026-06-06T13:54:25
-
-// Code style format review — 2026-06-16T14:50:03

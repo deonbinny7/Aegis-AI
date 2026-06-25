@@ -22,5 +22,3 @@ class UserService:
         return User(email=user_in.email, password_hash=password_hash, full_name=user_in.username)
 
 user_service = UserService()
-
-# Refactored for performance polish — 2026-06-23T11:33:20

@@ -30,9 +30,3 @@ class DatabaseError(AIGatewayException):
 class ConfigurationError(AIGatewayException):
     status_code = 500
     error_code = "CONFIGURATION_ERROR"
-
-# Refactored for performance polish — 2026-06-07T12:14:23
-
-# Refactored for performance polish — 2026-06-08T09:35:58
-
-# Refactored for performance polish — 2026-06-17T21:40:33

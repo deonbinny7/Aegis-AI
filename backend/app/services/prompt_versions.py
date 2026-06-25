@@ -12,5 +12,3 @@ class PromptVersionService(BaseService[PromptVersionRepository]):
         super().__init__(PromptVersionRepository())
 
 prompt_version_service = PromptVersionService()
-
-# Refactored for performance polish — 2026-06-15T17:16:55

@@ -28,7 +28,3 @@ async def get_current_user(token: str = Depends(oauth2_scheme)):
     #     raise credentials_exception
     # return user
     return token_data
-
-# Refactored for performance polish — 2026-05-25T17:39:55
-
-# Refactored for performance polish — 2026-06-16T18:09:48

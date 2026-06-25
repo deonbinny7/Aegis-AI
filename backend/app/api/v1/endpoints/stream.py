@@ -97,5 +97,3 @@ async def chat_stream(
         _event_generator(request, current_user.username, db),
         media_type="text/event-stream"
     )
-
-# Refactored for performance polish — 2026-06-13T11:46:56

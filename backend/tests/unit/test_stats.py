@@ -16,5 +16,3 @@ def test_chi_square():
     assert "chi2_statistic" in res
     assert "p_value" in res
     assert res["significant"] is True
-
-# Refactored for performance polish — 2026-06-24T20:58:54

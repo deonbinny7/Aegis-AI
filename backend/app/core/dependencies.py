@@ -28,5 +28,3 @@ SettingsDep = Annotated[Settings, Depends(get_settings)]
 CurrentUserDep = Annotated[TokenData, Depends(get_current_user)]
 LoggerDep = Annotated[structlog.BoundLogger, Depends(get_logger)]
 RedisDep = Annotated[Redis, Depends(get_redis)]
-
-# Refactored for performance polish — 2026-06-15T16:08:27

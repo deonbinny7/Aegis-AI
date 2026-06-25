@@ -23,9 +23,3 @@ We take the security of Altair AI seriously. If you find a security vulnerabilit
 * **Never commit API keys, private passwords, or certificates to Git.**
 * Use the provided `.env.example` to define necessary variables, and place real values inside a local, gitignored `.env` file.
 * If a secret is accidentally committed to Git, immediately revoke it, delete the remote branch, and rotate the credential.
-
-// Code style format review — 2026-06-17T09:48:23
-
-// Code style format review — 2026-06-23T14:45:03
-
-// Code style format review — 2026-06-23T19:20:01
